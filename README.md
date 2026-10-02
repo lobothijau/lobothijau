@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**lobothijau/lobothijau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Bagus 👋
 
-Here are some ideas to get you started:
+I'm a software engineer in Bandung, Indonesia. I ship products end-to-end, from the first screen to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been writing code professionally since 2015: web and mobile apps for Japanese and multinational clients, 3D product configurators for businesses around the world, and now a veterinary platform at [ModernVet](https://modernvet.co).
+
+- 🛠️ **Day to day:** React, TypeScript, Flutter, React Native, Laravel
+- 🧊 **3D on the web:** Three.js configurators with live pricing, AR previews, and e-commerce checkout
+- 🌱 **Learning now:** Docker, Kubernetes, CI/CD, and cloud infrastructure. I write notes as I go.
+- ✍️ **Writing:** [bagusaji.com/articles](https://bagusaji.com/articles/) (English)
+
+📫 [bagusaji.com](https://bagusaji.com) · [LinkedIn](https://www.linkedin.com/in/baguzzzaji)
